@@ -1,0 +1,23 @@
+
+.box{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    .email{
+        padding-left: 30px; 
+        padding-top: 20px;
+    }
+    
+}
+
+.text{
+    text-align: center;
+    font-size: xx-large;
+}
+.input1{
+    padding-left: 30px;
+    padding-top: 20px; 
+    }
